@@ -1,0 +1,12 @@
+{
+  "name": "eddie-skills",
+  "owner": { "name": "Eddie" },
+  "description": "Meine eigenen Skills",
+  "plugins": [
+    {
+      "name": "cpre-helfer",
+      "source": "./plugins/cpre-helfer",
+      "description": "Hilft beim Lernen für CPRE Foundation Level"
+    }
+  ]
+}
