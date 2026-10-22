@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "cpre-helfer",
-      "source": "./plugins/cpre-helfer",
+         "source": "./.claude-plugin/plugins/cpre-helfer",
       "description": "Hilft beim Lernen für CPRE Foundation Level"
     }
   ]
